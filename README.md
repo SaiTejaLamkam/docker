@@ -1,7 +1,3 @@
-# UltimateDockerClass
-
-Code_with_mosh_course
-
 ## Section 1, Getting Started (install)
 
 Check out docker official documents.
